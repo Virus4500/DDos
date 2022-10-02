@@ -1,4 +1,5 @@
 #kos nant eski naro
+#https://github.com/Virus4500/DDos
 import time
 import socket
 import sys
